@@ -80,8 +80,8 @@ input, select, textarea {
 #profile > img{
 	margin-right: 20px;
 }
-
-#icon{
+.dev-i{
+	display: inline-block;
 	transform: rotate(45deg);
     -webkit-transform: rotate( 45deg);
 }
