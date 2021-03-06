@@ -85,6 +85,7 @@ input, select, textarea {
 	display: inline-block;
 	transform: rotate(45deg);
     -webkit-transform: rotate( 45deg);
+	font-size: 63px;
 }
 
 /* Basic */
@@ -2067,12 +2068,14 @@ input, select, textarea {
 			transform: rotate(-45deg);
 			border-radius: 3px;
 			border: solid 2px #fff;
-			display: inline-block;
+			display: flex;
+			justify-content: center;
+			align-items: center;
 			font-size: 1.35em;
-			height: calc(3em + 2px);
+			height: calc(5em + 5px);
 			line-height: 3em;
 			text-align: center;
-			width: calc(3em + 2px);
+			width: calc(5em + 5px);
 		}
 
 			.icon.major:before {
