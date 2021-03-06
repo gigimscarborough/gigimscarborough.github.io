@@ -81,6 +81,15 @@ input, select, textarea {
 	margin-right: 20px;
 }
 
+#icon{
+transform: rotate(
+45deg
+);
+    -webkit-transform: rotate( 
+45deg
+ );
+}
+
 /* Basic */
 
 	@-ms-viewport {
