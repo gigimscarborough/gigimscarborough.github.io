@@ -87,10 +87,8 @@ input, select, textarea {
     -webkit-transform: rotate( 45deg);
 	font-size: 70px;
 }
-.dev-i2{
-	display: inline-block;
-	transform: rotate(45deg);
-    -webkit-transform: rotate( 45deg);
+
+.dev-ic{
 	font-size: 80px;
 }
 
