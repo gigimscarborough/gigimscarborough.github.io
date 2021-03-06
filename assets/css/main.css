@@ -82,12 +82,8 @@ input, select, textarea {
 }
 
 #icon{
-transform: rotate(
-45deg
-);
-    -webkit-transform: rotate( 
-45deg
- );
+	transform: rotate(45deg);
+    -webkit-transform: rotate( 45deg);
 }
 
 /* Basic */
@@ -3995,7 +3991,7 @@ transform: rotate(
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(66, 75, 84, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
