@@ -81,6 +81,7 @@ input, select, textarea {
 	margin-right: 20px;
 }
 .dev-i{
+	font-size: 35px;
 	display: inline-block;
 	transform: rotate(45deg);
     -webkit-transform: rotate( 45deg);
