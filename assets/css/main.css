@@ -2340,6 +2340,13 @@ input, select, textarea {
 						padding: 0 1em !important;
 					}
 
+					.dev-i{
+						font-size: 50px;
+					}
+					.dev-ic{
+						font-size: 75px;
+					}
+
 				}
 
 /* Table */
