@@ -92,6 +92,11 @@ input, select, textarea {
 	font-size: 95px;
 }
 
+#nav-logo{
+	height: 40px;
+	width: 160px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
