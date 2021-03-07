@@ -109,6 +109,7 @@ input, select, textarea {
 	text-decoration: none;
 } */
 #logo-t{
+	margin-top: 5px;
 	height: 30px;
 	width: 150px;
 }
