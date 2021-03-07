@@ -114,9 +114,8 @@ input, select, textarea {
 	width: 150px;
 }
 
-#footer-logo{
+.footer-logo{
 	height: 20px;
-	width: 70px;
 }
 
 /* Basic */
