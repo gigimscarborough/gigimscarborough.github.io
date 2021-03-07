@@ -94,7 +94,7 @@ input, select, textarea {
 
 #nav-logo{
 	height: 100%;
-	width: 160px;
+	width: 180px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -106,6 +106,7 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-decoration: none;
 }
 #logo-t{
 	height: 35px;
