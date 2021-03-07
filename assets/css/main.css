@@ -117,6 +117,10 @@ input, select, textarea {
 .footer-logo{
 	height: 20px;
 }
+.logo-foot{
+	display: flex;
+	align-items: center;
+}
 
 /* Basic */
 
