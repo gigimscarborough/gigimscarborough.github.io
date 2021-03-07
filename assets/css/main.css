@@ -93,8 +93,15 @@ input, select, textarea {
 }
 
 #nav-logo{
-	height: 40px;
+	height: 100%;
 	width: 160px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#nav-logo{
+	height: 35px;
+	width: 150px;
 }
 
 /* Basic */
