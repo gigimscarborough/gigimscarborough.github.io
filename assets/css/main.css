@@ -100,14 +100,14 @@ input, select, textarea {
 	align-items: center;
 }
 
-#nav-logo a{
+/* #nav-logo a{
 	height: 100%;
 	width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-decoration: none;
-}
+} */
 #logo-t{
 	height: 35px;
 	width: 150px;
@@ -3510,7 +3510,9 @@ input, select, textarea {
 
 			#header h1 a {
 				border: 0;
-				display: block;
+				display: flex;
+				justify-content: center;
+				align-items: center;
 				height: inherit;
 				line-height: inherit;
 			}
