@@ -114,6 +114,11 @@ input, select, textarea {
 	width: 150px;
 }
 
+#footer-logo{
+	height: 20px;
+	width: 70px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
