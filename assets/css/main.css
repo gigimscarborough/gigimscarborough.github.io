@@ -99,7 +99,7 @@ input, select, textarea {
 	justify-content: center;
 	align-items: center;
 }
-#nav-logo{
+#nav-logo > img{
 	height: 35px;
 	width: 150px;
 }
