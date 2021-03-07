@@ -100,7 +100,7 @@ input, select, textarea {
 	align-items: center;
 }
 
-#nav-logo > a{
+#nav-logo a{
 	height: 100%;
 	width: 100%;
 	display: flex;
