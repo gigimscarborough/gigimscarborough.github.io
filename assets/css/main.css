@@ -117,10 +117,10 @@ input, select, textarea {
 .footer-logo{
 	height: 20px;
 }
-/* .logo-foot{
+.logo-foot{
 	display: flex;
 	align-items: center;
-} */
+}
 
 /* Basic */
 
@@ -3961,6 +3961,9 @@ input, select, textarea {
 			list-style: none;
 			padding: 0;
 			text-transform: uppercase;
+			display: flex;
+			align-items: center;
+			justify-content: center;
 		}
 
 			#footer .copyright li {
