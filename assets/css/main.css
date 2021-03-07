@@ -99,6 +99,14 @@ input, select, textarea {
 	justify-content: center;
 	align-items: center;
 }
+
+#nav-logo > a{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 #logo-t{
 	height: 35px;
 	width: 150px;
