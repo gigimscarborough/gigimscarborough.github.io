@@ -3978,6 +3978,7 @@ input, select, textarea {
 					border-left: 0;
 					margin-left: 0;
 					padding-left: 0;
+					display: flex;
 				}
 
 				#footer .copyright li a {
