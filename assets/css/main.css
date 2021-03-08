@@ -132,7 +132,8 @@ input, select, textarea {
 	display: flex;
 }
 #ct-form{
-	width: 420px;
+	width: 440px;
+	text-align: left;
 }
 /* Basic */
 
