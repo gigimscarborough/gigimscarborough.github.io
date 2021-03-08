@@ -83,11 +83,12 @@
 		}
 
 	// Hovers
-	$coco.hover( function () { $('#coco-h').css("display","flex"); })
+	// $coco.hover( function () { $('#coco-h').css("display","flex"); })
 
 })(jQuery);
 
-// const coco = document.getElementById('cc-p')
-// coco.addEventListener('hover', () => {
-// 	document.getElementById('coco-h').style.display = 'flex'
-// })
+const coco = document.getElementById('cc-p')
+
+coco.addEventListener('hover', () => {
+	document.getElementById('coco-h').style.display = 'flex'
+})
