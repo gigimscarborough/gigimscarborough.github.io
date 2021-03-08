@@ -160,7 +160,6 @@ input, select, textarea {
 
 #coco-h{
 	display: flex;
-	cursor: pointer;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -181,9 +180,15 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	cursor: pointer;
 }
 #coco-h i{
 	font-size: 30px;
+}
+#coco-h > div{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #fm-h{
 	display: none;
