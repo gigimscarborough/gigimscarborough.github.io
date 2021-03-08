@@ -83,7 +83,7 @@
 		}
 
 	// Hovers
-	$coco.on('hover', function () { $cocoh.css("display","flex"); })
+	$coco.on('hover', function () { $('#coco-h').css("display","flex"); })
 
 })(jQuery);
 
