@@ -148,7 +148,9 @@ input, select, textarea {
 #ct-btns > a{
 	margin-bottom: 25px;
 	text-decoration: none;
+	border-bottom: none;
 }
+
 #ct-list{
 	width: 440px;
 }
