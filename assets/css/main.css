@@ -131,8 +131,8 @@ input, select, textarea {
 .ct-div{
 	display: flex;
 }
-.ct-form{
-	width: 300px;
+#ct-form{
+	width: 420px;
 }
 /* Basic */
 
