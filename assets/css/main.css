@@ -132,6 +132,7 @@ input, select, textarea {
 	display: flex;
 	width: 900px;
 	justify-content: space-between;
+	margin-right: 0;
 }
 #ct-form{
 	width: 440px;
