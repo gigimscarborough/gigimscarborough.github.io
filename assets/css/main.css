@@ -143,9 +143,10 @@ input, select, textarea {
 	align-items: center;
 }
 #ct-btns > button{
-	margin-bottom: 25px;
+	cursor: pointer;
 }
 #ct-btns > a{
+	margin-bottom: 25px;
 	text-decoration: none;
 }
 #ct-list{
