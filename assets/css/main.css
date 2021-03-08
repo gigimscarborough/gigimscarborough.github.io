@@ -173,6 +173,8 @@ input, select, textarea {
 
 #coco-h a{
 	text-decoration: none;
+	background:rgba(0, 0, 0, 0.85);
+	border-radius: 5px;
 }
 #fm-h{
 	display: none;
