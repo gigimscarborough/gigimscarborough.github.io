@@ -122,6 +122,12 @@ input, select, textarea {
 	align-items: center;
 }
 
+#bio-head{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
 /* Basic */
 
 	@-ms-viewport {
