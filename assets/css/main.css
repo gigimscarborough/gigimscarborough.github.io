@@ -135,6 +135,12 @@ input, select, textarea {
 	width: 440px;
 	text-align: left;
 }
+
+#ct-btns{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
 /* Basic */
 
 	@-ms-viewport {
