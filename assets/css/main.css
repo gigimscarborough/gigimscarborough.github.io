@@ -175,7 +175,7 @@ input, select, textarea {
 	text-decoration: none;
 	border-bottom: none;
 	font-size: 16px;
-	background:rgba(0, 0, 0, 0.85);
+	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
 	padding: 10px;
 }
@@ -198,7 +198,7 @@ input, select, textarea {
 	text-decoration: none;
 	border-bottom: none;
 	font-size: 16px;
-	background:rgba(0, 0, 0, 0.85);
+	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
 }
 #fp-h{
@@ -217,7 +217,7 @@ input, select, textarea {
 	text-decoration: none;
 	border-bottom: none;
 	font-size: 16px;
-	background:rgba(0, 0, 0, 0.85);
+	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
 }
 /* Basic */
