@@ -89,7 +89,11 @@
 
 const coco = document.getElementById('cc-p')
 
-coco.addEventListener('mouseover', () => {
+coco.addEventListener('mouseenter', () => {
 	
 	document.getElementById('coco-h').style.display = 'flex'
+})
+coco.addEventListener('mouseleave', () => {
+	
+	document.getElementById('coco-h').style.display = 'none'
 })
