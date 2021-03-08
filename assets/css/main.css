@@ -178,9 +178,12 @@ input, select, textarea {
 	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
 	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #coco-h i{
-	font-size: 16px;
+	font-size: 30px;
 }
 #fm-h{
 	display: none;
@@ -200,6 +203,10 @@ input, select, textarea {
 	font-size: 16px;
 	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 #fp-h{
 	display: none;
@@ -219,6 +226,10 @@ input, select, textarea {
 	font-size: 16px;
 	background:rgba(0, 0, 0, 0.75);
 	border-radius: 5px;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 /* Basic */
 
