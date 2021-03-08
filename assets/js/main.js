@@ -11,6 +11,8 @@
 		$wrapper = $('#page-wrapper'),
 		$banner = $('#banner'),
 		$header = $('#header');
+		$coco = $('#cc-p');
+		$cocoh = $('#coco-h')
 
 	// Breakpoints.
 		breakpoints({
@@ -80,9 +82,12 @@
 
 		}
 
+	// Hovers
+	$coco.on('hover', function () { $cocoh.css("display","flex"); })
+
 })(jQuery);
 
-const coco = document.getElementById('cc-p')
-coco.addEventListener('hover', () => {
-	document.getElementById('coco-h').style.display = 'flex'
-})
+// const coco = document.getElementById('cc-p')
+// coco.addEventListener('hover', () => {
+// 	document.getElementById('coco-h').style.display = 'flex'
+// })
