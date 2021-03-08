@@ -173,6 +173,7 @@ input, select, textarea {
 
 #coco-h a{
 	text-decoration: none;
+	font-size: 16px;
 	background:rgba(0, 0, 0, 0.85);
 	border-radius: 5px;
 }
@@ -190,6 +191,9 @@ input, select, textarea {
 }
 #fm-h a{
 	text-decoration: none;
+	font-size: 16px;
+	background:rgba(0, 0, 0, 0.85);
+	border-radius: 5px;
 }
 #fp-h{
 	display: none;
@@ -205,6 +209,9 @@ input, select, textarea {
 }
 #fp-h a{
 	text-decoration: none;
+	font-size: 16px;
+	background:rgba(0, 0, 0, 0.85);
+	border-radius: 5px;
 }
 /* Basic */
 
