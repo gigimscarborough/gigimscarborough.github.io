@@ -81,3 +81,8 @@
 		}
 
 })(jQuery);
+
+const coco = document.getElementById('cc-p')
+coco.addEventListener('hover', () => {
+	document.getElementById('coco-h').style.display = 'flex'
+})

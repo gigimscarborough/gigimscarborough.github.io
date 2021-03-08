@@ -157,6 +157,11 @@ input, select, textarea {
 #ct-list{
 	width: 440px;
 }
+
+.hover{
+	position: absolute;
+	background:  rgba(0, 0, 0, 0.35);
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -2171,7 +2176,7 @@ input, select, textarea {
 	.image {
 		border-radius: 3px;
 		border: 0;
-		display: inline-block;
+		display: flex;
 		position: relative;
 	}
 
