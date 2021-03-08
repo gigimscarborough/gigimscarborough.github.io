@@ -3816,7 +3816,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		flex-direction: column;
-		max-width: 45em;
+		max-width: 35em;
 	}
 
 		#cta .inner header {
