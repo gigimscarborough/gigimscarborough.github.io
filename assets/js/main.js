@@ -88,6 +88,8 @@
 })(jQuery);
 
 const coco = document.getElementById('cc-p')
+const fit = document.getElementById('fm-p')
+const full = document.getElementById('fp-p')
 
 coco.addEventListener('mouseenter', () => {
 	
