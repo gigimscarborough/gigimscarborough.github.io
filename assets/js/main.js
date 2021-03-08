@@ -99,3 +99,19 @@ coco.addEventListener('mouseleave', () => {
 	
 	document.getElementById('coco-h').style.display = 'none'
 })
+fit.addEventListener('mouseenter', () => {
+	
+	document.getElementById('fm-h').style.display = 'flex'
+})
+fit.addEventListener('mouseleave', () => {
+	
+	document.getElementById('fm-h').style.display = 'none'
+})
+full.addEventListener('mouseenter', () => {
+	
+	document.getElementById('fp-h').style.display = 'flex'
+})
+full.addEventListener('mouseleave', () => {
+	
+	document.getElementById('fp-h').style.display = 'none'
+})
