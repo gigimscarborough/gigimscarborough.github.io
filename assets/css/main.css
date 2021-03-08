@@ -159,7 +159,7 @@ input, select, textarea {
 }
 
 #coco-h{
-	display: none;
+	display: flex;
 	cursor: pointer;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
