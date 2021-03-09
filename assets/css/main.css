@@ -3559,6 +3559,10 @@ input, select, textarea {
 					text-decoration: none;
 					text-transform: uppercase;
 				}
+				#menu ul > li > a:hover {
+					color: rgba(0, 0, 0, 0.125);
+					transition: 0.4s;
+				}
 
 					@media screen and (max-width: 736px) {
 
