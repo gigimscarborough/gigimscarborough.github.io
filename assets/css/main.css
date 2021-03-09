@@ -276,6 +276,15 @@ input, select, textarea {
 	justify-content: center;
 	align-items: center;
 }
+
+#pjs h2 {
+	padding-top: 64px;
+	border-bottom: solid 2px #fff;
+	padding-bottom: 1em;
+	border-color: rgba(0, 0, 0, 0.125);
+
+
+}
 /* Basic */
 
 	@-ms-viewport {
