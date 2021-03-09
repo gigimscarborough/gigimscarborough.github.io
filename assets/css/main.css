@@ -286,11 +286,10 @@ input, select, textarea {
 	
 }
 #pjs{
-
 	background: #424B54
 }
-#pjs div {
-	background-color: rgba(0, 0, 0, 0.075);
+#pjs div{
+	background-color: rgba(0, 0, 0, 0.04);
 	width:100%;
 	padding-top: 96px;
 	display: flex;
