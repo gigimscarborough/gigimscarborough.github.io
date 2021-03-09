@@ -176,7 +176,7 @@ input, select, textarea {
 	font-size: 16px;
 	background:rgba(66, 75, 84, 0.85);
 	border-radius: 5px;
-	padding: 10px;
+	padding: 12px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -186,8 +186,11 @@ input, select, textarea {
 	background:rgba(237, 73, 51, 0.85);
 	transition: 0.4s;
 }
+#coco-h a:first-of-type{
+	margin-right: 15px;
+}
 #coco-h i{
-	font-size: 30px;
+	font-size: 40px;
 }
 #coco-h > div{
 	display: flex;
