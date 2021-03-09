@@ -3563,8 +3563,8 @@ input, select, textarea {
 					text-transform: uppercase;
 				}
 				#menu ul > li > a:hover {
-					color: rgba(0, 0, 0, 0.125);
-					transition: 0.4s;
+					color: rgba(0, 0, 0, 0.325);
+					transition: 0.3s;
 				}
 
 					@media screen and (max-width: 736px) {
