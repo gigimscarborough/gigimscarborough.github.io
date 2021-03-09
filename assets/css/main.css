@@ -285,6 +285,10 @@ input, select, textarea {
 	text-align: center;
 
 }
+#pjs{
+	display: flex;
+	justify-content: center;
+}
 /* Basic */
 
 	@-ms-viewport {
