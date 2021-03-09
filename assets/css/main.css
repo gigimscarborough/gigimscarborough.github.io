@@ -198,8 +198,7 @@ input, select, textarea {
 	align-items: center;
 }
 #fm-h{
-	display: none;
-	cursor: pointer;
+	display: flex;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -213,9 +212,26 @@ input, select, textarea {
 	text-decoration: none;
 	border-bottom: none;
 	font-size: 16px;
-	background:rgba(66, 75, 84, 0.75);
+	background:rgba(66, 75, 84, 0.85);
 	border-radius: 5px;
-	padding: 10px;
+	padding: 12px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+#fm-h a:hover{
+	background:rgba(237, 73, 51, 0.85);
+	transition: 0.4s;
+}
+#fm-h a:first-of-type{
+	margin-right: 20px;
+}
+#fm-h i{
+	font-size: 40px;
+}
+#fm-h > div{
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -236,9 +252,26 @@ input, select, textarea {
 	text-decoration: none;
 	border-bottom: none;
 	font-size: 16px;
-	background:rgba(66, 75, 84, 0.75);
+	background:rgba(66, 75, 84, 0.85);
 	border-radius: 5px;
-	padding: 10px;
+	padding: 12px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+
+#fp-h a:hover{
+	background:rgba(237, 73, 51, 0.85);
+	transition: 0.4s;
+}
+#fp-h a:first-of-type{
+	margin-right: 20px;
+}
+#fp-h i{
+	font-size: 40px;
+}
+#fp-h > div{
 	display: flex;
 	justify-content: center;
 	align-items: center;
