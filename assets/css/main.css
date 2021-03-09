@@ -282,6 +282,7 @@ input, select, textarea {
 	padding-bottom: 1em;
 	border-color: rgba(0, 0, 0, 0.125);
 	text-align: center;
+	display: inline-block;
 	
 }
 #pjs{
