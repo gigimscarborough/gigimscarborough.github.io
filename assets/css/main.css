@@ -182,6 +182,10 @@ input, select, textarea {
 	align-items: center;
 	cursor: pointer;
 }
+#coco-h a:hover{
+	background:rgba(237, 73, 51, 0.85);
+	transition: 0.4s;
+}
 #coco-h i{
 	font-size: 30px;
 }
