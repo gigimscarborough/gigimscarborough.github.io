@@ -159,7 +159,7 @@ input, select, textarea {
 }
 
 #coco-h{
-	display: flex;
+	display: none;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -198,7 +198,7 @@ input, select, textarea {
 	align-items: center;
 }
 #fm-h{
-	display: flex;
+	display: none;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
