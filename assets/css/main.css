@@ -3035,7 +3035,7 @@ input, select, textarea {
 
 			}
 			@media screen and (max-width: 736px) {
-				#three > div{
+				#three > div > div{
 					flex-direction: column;
 					align-items: center;
 				}
