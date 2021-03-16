@@ -3035,10 +3035,10 @@ input, select, textarea {
 
 			}
 			@media screen and (max-width: 736px) {
-				.wrapper > .inner > div{
+				/* .wrapper > .inner > div{
 					flex-direction: column;
 					align-items: center;
-				}
+				} */
 			}
 
 		.wrapper.alt {
