@@ -4038,6 +4038,9 @@ input, select, textarea {
 					max-width: 20em;
 					width: 100%;
 				}
+			#cta .inner > div:first-of-type{
+				flex-direction: column;
+			}	
 
 		}
 
