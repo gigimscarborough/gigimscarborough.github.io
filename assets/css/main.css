@@ -3952,6 +3952,15 @@ input, select, textarea {
 				#banner .more {
 					display: none;
 				}
+			#profile{
+				flex-direction: column;
+			}
+			#profile > img{
+				height: 180px;
+				margin-bottom: 20px;
+    			margin-right: 0px;
+			}
+			}
 
 		}
 
