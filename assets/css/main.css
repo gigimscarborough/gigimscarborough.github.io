@@ -3064,17 +3064,17 @@ input, select, textarea {
 				background: rgba(255, 255, 255, 0.075);
 			}
 
-			.wrapper.style1 header p {
+			/* .wrapper.style1 header p {
 			
-			}
+			} */
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
 				border-color: rgba(0, 0, 0, 0.125);
 			}
 
-			.wrapper.style1 header.major p {
+			/* .wrapper.style1 header.major p {
 				
-			}
+			} */
 
 			.wrapper.style1 label {
 				color: #ffffff;
@@ -3952,17 +3952,17 @@ input, select, textarea {
 				#banner .more {
 					display: none;
 				}
-			#profile{
+			#banner > div{
 				flex-direction: column;
 			}
-			#profile > img{
+			#banner > div > img{
 				height: 180px;
 				margin-bottom: 20px;
     			margin-right: 0px;
 			}
-			}
-
 		}
+
+		
 
 	body.is-preload #banner h2 {
 		-moz-transform: scale(0.95);
