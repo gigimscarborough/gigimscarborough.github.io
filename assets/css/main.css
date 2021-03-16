@@ -3039,6 +3039,9 @@ input, select, textarea {
 					flex-direction: column;
 					align-items: center;
 				}
+				#three > div > div > div > h2{
+					text-align: center;
+				}
 			}
 
 		.wrapper.alt {
