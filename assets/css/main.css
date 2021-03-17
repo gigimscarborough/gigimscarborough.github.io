@@ -295,6 +295,9 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 }
+#send{
+	display: flex;
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -3041,6 +3044,19 @@ input, select, textarea {
 				}
 				#three > div > div > div > h2{
 					text-align: center;
+				}
+				#three > div > div > div > p{
+					text-align: center;
+				}
+				#ct-form{
+					max-width: 100%;
+				}
+				#send{
+					justify-content: center;
+				}
+				#send button{
+					width: 100%;
+					max-width: 100%;
 				}
 			}
 
